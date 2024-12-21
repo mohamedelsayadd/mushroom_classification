@@ -1,6 +1,6 @@
 # Mushroom Classification Project
 
-![Mushroom Image](path/to/your/mushroom-image.jpg)
+![Mushroom Image]([path/to/your/mushroom-image.jpg](https://github.com/mohamedelsayadd/mushroom_classification/blob/main/mushroom.jpg))
 
 This project involves analyzing and classifying mushrooms based on various features. It demonstrates the use of data preprocessing, exploratory data analysis, and machine learning to predict whether a mushroom is edible or poisonous.
 
@@ -28,7 +28,7 @@ This project involves analyzing and classifying mushrooms based on various featu
 
 1. Clone the repository:
     bash
-    git clone https://github.com/your-username/mushroom-classification.git
+    git clone https://github.com/mohamedelsayadd/mushroom_classification.git
     cd mushroom-classification
     
 
@@ -62,10 +62,10 @@ This project involves analyzing and classifying mushrooms based on various featu
 ## Results
 
 - The trained model achieved:
-    - *Accuracy*: [Insert Accuracy Here]
-    - *Precision*: [Insert Precision Here]
-    - *Recall*: [Insert Recall Here]
-    - *F1 Score*: [Insert F1 Score Here]
+    - *Accuracy*: 0.96
+    - *Precision*: 95
+    - *Recall*: 96
+    - *F1 Score*: 95
 
 ## Contributing
 
@@ -77,5 +77,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## Acknowledgments
 
-- The dataset used in this project is sourced from [Dataset Source].
-- Special thanks to [Credits, if any].
+- The dataset used in this project is sourced from [Kaggle](https://www.kaggle.com/datasets/uciml/mushroom-classification).
