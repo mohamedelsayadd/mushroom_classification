@@ -1,6 +1,6 @@
 # Mushroom Classification Project
 
-![Mushroom Image]([path/to/your/mushroom-image.jpg](https://github.com/mohamedelsayadd/mushroom_classification/blob/main/mushroom.jpg))
+![Mushroom Image](mushroom.jpg)
 
 This project involves analyzing and classifying mushrooms based on various features. It demonstrates the use of data preprocessing, exploratory data analysis, and machine learning to predict whether a mushroom is edible or poisonous.
 
